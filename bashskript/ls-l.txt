@@ -1,0 +1,5 @@
+итого 12
+-rw-r--r-- 1 andrey andrey 29 2010-09-20 12:26 helloworld.sh~
+-rw-r--r-- 1 root   root    0 2010-09-21 12:14 ls-l.txt
+-rwxr-xr-x 1 andrey andrey 29 2010-09-21 12:13 script2.sh
+-rwxr-xr-x 1 andrey andrey 37 2010-09-20 12:45 script.sh
